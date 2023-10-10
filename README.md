@@ -22,5 +22,5 @@ so you will see the first frames of the ad for a fraction of a second
 I am currently uploading the extension to Microsoft store but not sure if it will be accepted 😅
 
 ### Firefox
-    1- Go to [Firefox addons](https://addons.mozilla.org/en-US/firefox/addon/utube-adskipper/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
-    2- Add extension
+Go to [Firefox addons](https://addons.mozilla.org/en-US/firefox/addon/utube-adskipper/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+    then add extension
