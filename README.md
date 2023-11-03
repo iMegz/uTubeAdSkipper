@@ -10,6 +10,7 @@ A very simple YouTube adSkipper
     3- Trigger skip button
 
 so you will see the first frames of the ad for a fraction of a second
+<br />
 Since it is an `ad skipper` not an `ad blocker`, youtube can't detect it
 
 ## How to install
