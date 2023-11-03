@@ -13,13 +13,7 @@ so you will see the first frames of the ad for a fraction of a second
 
 ## How to install
 ### Microsoft edge
-    1- Download the code
-    2- Go to extension settings
-    3- Activate developer mode
-    4- Click load unpacked
-    5- Choose the code folder
-    
-I am currently uploading the extension to Microsoft store but not sure if it will be accepted 😅
+Go to [Edge Extensions](https://microsoftedge.microsoft.com/addons/detail/afglhpnmgcfoijollmiaflceepmeekop) then click `get` button
 
 ### Firefox
 Go to [Firefox addons](https://addons.mozilla.org/en-US/firefox/addon/utube-adskipper/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
