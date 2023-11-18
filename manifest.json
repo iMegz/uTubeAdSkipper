@@ -4,7 +4,7 @@
     "name": "uTube adSkipper",
     "permissions": ["activeTab"],
     "author": "ammhaa2012@gmail.com", 
-    "description":"This is an add skipper NOT and ad blocker it simply detects ads and skips them so you are expected to see ads for a fraction of a second then it will be automatically skipped, the good thing is that it won't be detected by youtube since it doesn't block ads",
+    "description":"This is an ad skipper NOT and ad blocker it simply detects ads and skips them so you are expected to see ads for a fraction of a second then it will be automatically skipped, the good thing is that it won't be detected by youtube since it doesn't block ads",
     "content_scripts": [
         {
             "matches": ["https://www.youtube.com/*"],
